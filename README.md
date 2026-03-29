@@ -6,6 +6,9 @@ It is designed around a simple but ambitious idea: one model can generate an ans
 
 Chaos Node treats intelligence like a decision chamber. Each node, model, or subagent contributes perspective, memory, criticism, refinement, and tradeoff analysis. The goal is not speed alone. The goal is better thought.
 
+Chaos Node is an evolved version of an idea that started about 5 years ago...
+Let's change the World together - Steven Blackburn 03 / 28 / 2026
+
 ## Mission
 
 Chaos Node exists to help build a more transparent, participatory, and responsible future for AI.
