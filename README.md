@@ -8,7 +8,7 @@ Chaos Node treats intelligence like a decision chamber. Each node, model, or sub
 
 Chaos Node is an evolved version of an idea that started about 5 years ago...
 
-Let's change the World together - Steven Blackburn 03 / 28 / 2026
+Let's change the World together - Steven Blackburn 03/28/2026
 
 ## Mission
 
